@@ -1,0 +1,20 @@
+body {
+    background-image: url("bg2.jpg");
+
+    height: 100%;
+
+    margin: 0;
+
+    text-align: center;
+
+}
+
+canvas {
+
+    background-color: white;
+
+    border: 1px solid white;
+
+    margin-top: 120px;
+
+}
